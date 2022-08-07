@@ -1,0 +1,6 @@
+beanie==1.11.0
+fastapi==0.78.0
+uvicorn==0.17.6
+email-validator==1.2.1
+dnspython==2.2.1
+python-dotenv==0.20.0
